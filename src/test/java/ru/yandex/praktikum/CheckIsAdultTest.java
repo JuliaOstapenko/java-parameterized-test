@@ -23,7 +23,7 @@ public class CheckIsAdultTest {
                 {15, false},
                 {18, true},
                 {21, true},
-                {25, true},
+
         };
     }
 
